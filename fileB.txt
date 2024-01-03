@@ -3,3 +3,6 @@ this is the change which im making to the file
 this is the change which im making to the file 
 this is the change which im making to the file 
 aaaaaaaaaaaaaaaaaaaaaa
+
+this is data from branch featuresA
+enter shift+Q to exit 
