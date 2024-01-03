@@ -1,0 +1,3 @@
+new data is addded tom to fileE , after pushing the data to the github remote 
+
+note need to give origin path just push the code line is enough 
